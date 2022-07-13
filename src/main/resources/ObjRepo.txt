@@ -1,0 +1,10 @@
+#************************** Main Page ***********************************
+dvPreloading = wpsp-preLoading
+spnTI = wpsp-schoolname
+
+#************************* Login Page ***********************************
+txtUser = user_login
+txtPassword = pwd
+chkRememberMe = #rememberme
+btnLogin = //input[contains(@value,'Log')]
+lblError = login_error
